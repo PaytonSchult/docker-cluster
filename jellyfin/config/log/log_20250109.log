@@ -1,0 +1,165 @@
+[2025-01-09 02:00:00.245 -05:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2025-01-09 02:00:01.002 -05:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-01-10 02:00:00.000 -05:00, which is 23:59:58.9971257 from now.
+[2025-01-09 03:00:00.049 -05:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2025-01-09 03:00:01.005 -05:00] [INF] [39] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2025-01-10 03:00:00.000 -05:00, which is 23:59:58.9943759 from now.
+[2025-01-09 11:42:08.226 -05:00] [INF] [84] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media2"
+[2025-01-09 11:42:08.232 -05:00] [INF] [84] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-01-09 11:42:08.264 -05:00] [INF] [85] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2025-01-09 11:42:08.825 -05:00] [WRN] [84] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media" is inaccessible or empty, skipping
+[2025-01-09 11:42:08.847 -05:00] [WRN] [84] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2025-01-09 11:42:09.083 -05:00] [WRN] [81] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media" is inaccessible or empty, skipping
+[2025-01-09 11:42:09.085 -05:00] [WRN] [81] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2025-01-09 11:42:10.440 -05:00] [INF] [72] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 2 seconds
+[2025-01-09 11:42:10.495 -05:00] [INF] [85] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media2"
+[2025-01-09 12:58:25.158 -05:00] [INF] [107] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "guy" has succeeded.
+[2025-01-09 12:58:25.165 -05:00] [INF] [107] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "guy": 0/0
+[2025-01-09 12:58:25.177 -05:00] [INF] [107] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 3cf55e56-2ed3-4e21-8b15-d4f91bc8d81d
+[2025-01-09 12:58:26.315 -05:00] [INF] [75] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" request
+[2025-01-09 13:01:10.252 -05:00] [INF] [18] Emby.Server.Implementations.Session.SessionManager: Sending shutdown notifications
+[2025-01-09 13:01:10.291 -05:00] [INF] [107] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" closed
+[2025-01-09 13:01:10.313 -05:00] [INF] [24] Jellyfin.Networking.PortForwardingHost: Stopping NAT discovery
+[2025-01-09 13:01:10.335 -05:00] [INF] [67] Main: Running query planner optimizations in the database... This might take a while
+[2025-01-09 13:01:10.416 -05:00] [INF] [24] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media2"
+[2025-01-09 13:01:10.434 -05:00] [INF] [67] Emby.Server.Implementations.ApplicationHost: Disposing "CoreAppHost"
+[2025-01-09 13:01:10.434 -05:00] [INF] [67] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzArtistProvider"
+[2025-01-09 13:01:10.435 -05:00] [INF] [67] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzAlbumProvider"
+[2025-01-09 13:01:10.436 -05:00] [INF] [67] Emby.Server.Implementations.ApplicationHost: Disposing "PluginManager"
+[2025-01-09 13:15:30.059 -05:00] [INF] [1] Main: Jellyfin version: "10.10.3"
+[2025-01-09 13:15:30.160 -05:00] [INF] [1] Main: Environment Variables: ["[JELLYFIN_LOG_DIR, /config/log]", "[JELLYFIN_DATA_DIR, /config]", "[JELLYFIN_CACHE_DIR, /cache]", "[JELLYFIN_WEB_DIR, /jellyfin/jellyfin-web]", "[JELLYFIN_FFMPEG, /usr/lib/jellyfin-ffmpeg/ffmpeg]", "[JELLYFIN_CONFIG_DIR, /config/config]"]
+[2025-01-09 13:15:30.168 -05:00] [INF] [1] Main: Arguments: ["/jellyfin/jellyfin.dll"]
+[2025-01-09 13:15:30.177 -05:00] [INF] [1] Main: Operating system: "Debian GNU/Linux 12 (bookworm)"
+[2025-01-09 13:15:30.178 -05:00] [INF] [1] Main: Architecture: Arm64
+[2025-01-09 13:15:30.181 -05:00] [INF] [1] Main: 64-Bit Process: True
+[2025-01-09 13:15:30.181 -05:00] [INF] [1] Main: User Interactive: True
+[2025-01-09 13:15:30.181 -05:00] [INF] [1] Main: Processor count: 4
+[2025-01-09 13:15:30.182 -05:00] [INF] [1] Main: Program data path: "/config"
+[2025-01-09 13:15:30.182 -05:00] [INF] [1] Main: Log directory path: "/config/log"
+[2025-01-09 13:15:30.182 -05:00] [INF] [1] Main: Config directory path: "/config/config"
+[2025-01-09 13:15:30.183 -05:00] [INF] [1] Main: Cache path: "/cache"
+[2025-01-09 13:15:30.183 -05:00] [INF] [1] Main: Temp directory path: "/tmp/jellyfin"
+[2025-01-09 13:15:30.184 -05:00] [INF] [1] Main: Web resources path: "/jellyfin/jellyfin-web"
+[2025-01-09 13:15:30.184 -05:00] [INF] [1] Main: Application directory: "/jellyfin/"
+[2025-01-09 13:15:30.693 -05:00] [INF] [1] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/cache"
+[2025-01-09 13:15:30.816 -05:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Loading assemblies
+[2025-01-09 13:15:31.088 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2025-01-09 13:15:31.088 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions: []
+[2025-01-09 13:15:31.090 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Used LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2025-01-09 13:15:31.094 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered interface addresses: ["127.0.0.1", "192.168.68.3"]
+[2025-01-09 13:15:31.096 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Bind Addresses ["0.0.0.0"]
+[2025-01-09 13:15:31.097 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Remote IP filter is "Allowlist"
+[2025-01-09 13:15:31.097 -05:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered subnets: []
+[2025-01-09 13:15:37.006 -05:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "TMDb" "10.10.3.0"
+[2025-01-09 13:15:37.010 -05:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Studio Images" "10.10.3.0"
+[2025-01-09 13:15:37.011 -05:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "OMDb" "10.10.3.0"
+[2025-01-09 13:15:37.075 -05:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "MusicBrainz" "10.10.3.0"
+[2025-01-09 13:15:37.076 -05:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "AudioDB" "10.10.3.0"
+[2025-01-09 13:15:37.458 -05:00] [INF] [1] Main: Kestrel is listening on "0.0.0.0"
+[2025-01-09 13:15:37.544 -05:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {2b7f468f-1730-4677-8ed7-14edb26f0640} may be persisted to storage in unencrypted form.
+[2025-01-09 13:15:40.210 -05:00] [WRN] [1] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: The WebRootPath was not found: "/wwwroot". Static files may be unavailable.
+[2025-01-09 13:15:40.377 -05:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Running startup tasks
+[2025-01-09 13:15:40.380 -05:00] [INF] [11] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media2"
+[2025-01-09 13:15:40.457 -05:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2025-01-10 03:00:00.000 -05:00, which is 13:44:19.5430449 from now.
+[2025-01-09 13:15:40.475 -05:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-01-10 02:00:00.000 -05:00, which is 12:44:19.5245219 from now.
+[2025-01-09 13:15:40.597 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Found ffmpeg version "7.0.2"
+[2025-01-09 13:15:40.793 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "decoders": ["libdav1d", "av1", "av1_rkmpp", "h264", "h264_rkmpp", "hevc", "hevc_rkmpp", "mpeg1_rkmpp", "mpeg2video", "mpeg2_rkmpp", "mpeg4", "mpeg4_rkmpp", "msmpeg4", "vp8", "vp8_rkmpp", "libvpx", "vp9", "vp9_rkmpp", "libvpx-vp9", "aac", "ac3", "ac4", "dca", "flac", "mp3", "truehd"]
+[2025-01-09 13:15:40.865 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "encoders": ["libsvtav1", "libx264", "h264_v4l2m2m", "h264_rkmpp", "libx265", "hevc_rkmpp", "mjpeg_rkmpp", "aac", "libfdk_aac", "ac3", "alac", "dca", "flac", "libmp3lame", "libopus", "truehd", "libvorbis", "srt"]
+[2025-01-09 13:15:40.938 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available filters: ["overlay_opencl", "overlay_rkrga", "scale_opencl", "scale_rkrga", "tonemapx", "tonemap_opencl", "transpose_opencl", "vpp_rkrga", "zscale", "alphasrc"]
+[2025-01-09 13:15:41.002 -05:00] [WRN] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Filter: "scale_cuda" with option "format" is not available
+[2025-01-09 13:15:41.059 -05:00] [WRN] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Filter: "tonemap_cuda" with option "GPU accelerated HDR to SDR tonemapping" is not available
+[2025-01-09 13:15:41.236 -05:00] [WRN] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Filter: "overlay_vaapi" with option "Action to take when encountering EOF from secondary input" is not available
+[2025-01-09 13:15:41.295 -05:00] [WRN] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Filter: "overlay_vulkan" with option "Action to take when encountering EOF from secondary input" is not available
+[2025-01-09 13:15:41.422 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available hwaccel types: ["drm", "opencl", "rkmpp"]
+[2025-01-09 13:15:43.536 -05:00] [INF] [17] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean up collections and playlists" Completed after 0 minute(s) and 0 seconds
+[2025-01-09 13:15:43.545 -05:00] [INF] [10] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2025-01-09 13:15:45.090 -05:00] [INF] [10] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 1 seconds
+[2025-01-09 13:15:54.340 -05:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: FFmpeg: "/usr/lib/jellyfin-ffmpeg/ffmpeg"
+[2025-01-09 13:15:54.342 -05:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: ServerId: "747707fa3f424bf198ccd99cfaa2dff3"
+[2025-01-09 13:15:54.343 -05:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Core startup complete
+[2025-01-09 13:15:54.343 -05:00] [INF] [1] Main: Startup complete 0:00:24.8493042
+[2025-01-09 13:18:53.491 -05:00] [INF] [27] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "root" has succeeded.
+[2025-01-09 13:18:53.500 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "root": 0/0
+[2025-01-09 13:18:53.514 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 405a99bc-ff66-45ce-a07b-bde4c16be655
+[2025-01-09 13:18:54.708 -05:00] [INF] [27] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:30:20.999 -05:00] [INF] [21] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2025-01-09 13:30:45.501 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Android TV" "0.18.4" playing "Tractoring". Stopped at "22133" ms
+[2025-01-09 13:57:11.678 -05:00] [INF] [42] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "shmeeg" has succeeded.
+[2025-01-09 13:57:11.680 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "shmeeg": 0/0
+[2025-01-09 13:57:11.680 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 23767f62-18b7-4e6e-9570-f2a62283da0d
+[2025-01-09 13:57:11.823 -05:00] [INF] [25] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:11.847 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:12.866 -05:00] [INF] [14] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:12.870 -05:00] [INF] [8] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:14.406 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:14.414 -05:00] [INF] [8] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:16.691 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:16.696 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:20.117 -05:00] [INF] [25] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:20.121 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:25.216 -05:00] [INF] [8] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:25.219 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:32.856 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:57:32.858 -05:00] [INF] [25] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:44.274 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:57:44.278 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:58:01.396 -05:00] [INF] [8] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:58:01.396 -05:00] [INF] [14] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:58:27.054 -05:00] [INF] [32] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:58:27.055 -05:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 13:58:29.539 -05:00] [INF] [10] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "guy" has been denied (IP: "192.168.68.52").
+[2025-01-09 13:58:29.562 -05:00] [ERR] [10] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/authenticatebyname".
+[2025-01-09 13:58:37.783 -05:00] [INF] [10] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "guy" has succeeded.
+[2025-01-09 13:58:37.784 -05:00] [INF] [10] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "guy": 0/0
+[2025-01-09 13:58:37.784 -05:00] [INF] [10] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 3cf55e56-2ed3-4e21-8b15-d4f91bc8d81d
+[2025-01-09 13:58:37.869 -05:00] [INF] [32] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" request
+[2025-01-09 13:59:05.550 -05:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 13:59:05.551 -05:00] [INF] [20] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:00:03.267 -05:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:00:03.270 -05:00] [INF] [46] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:01:29.790 -05:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:01:29.802 -05:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:03:39.627 -05:00] [INF] [47] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:03:39.629 -05:00] [INF] [17] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:06:54.313 -05:00] [INF] [41] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:06:54.344 -05:00] [INF] [20] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:11:46.313 -05:00] [INF] [47] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:11:46.325 -05:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:16:46.406 -05:00] [INF] [46] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:16:46.545 -05:00] [INF] [18] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:21:03.088 -05:00] [INF] [46] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-01-09 14:21:15.089 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2025-01-09 14:21:46.587 -05:00] [INF] [32] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:21:46.662 -05:00] [INF] [11] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:26:46.743 -05:00] [INF] [51] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:26:46.850 -05:00] [INF] [40] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:31:46.898 -05:00] [INF] [41] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:31:46.985 -05:00] [INF] [32] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:36:47.026 -05:00] [INF] [32] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:36:47.123 -05:00] [INF] [52] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:38:03.562 -05:00] [WRN] [27] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.68.52" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-01-09 14:38:03.575 -05:00] [INF] [27] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" closed
+[2025-01-09 14:41:47.161 -05:00] [INF] [58] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:41:47.264 -05:00] [INF] [57] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:46:47.310 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:46:47.408 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:51:47.451 -05:00] [INF] [60] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:51:47.554 -05:00] [INF] [59] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 14:56:47.607 -05:00] [INF] [70] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 14:56:47.688 -05:00] [INF] [69] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 15:01:47.769 -05:00] [INF] [76] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 15:01:47.867 -05:00] [INF] [72] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 15:06:47.916 -05:00] [INF] [81] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 15:06:48.003 -05:00] [INF] [80] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 15:11:48.091 -05:00] [INF] [46] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 15:11:48.172 -05:00] [INF] [22] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 15:16:48.238 -05:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 15:16:48.324 -05:00] [INF] [69] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" request
+[2025-01-09 15:21:48.553 -05:00] [INF] [74] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.62" closed
+[2025-01-09 15:29:49.556 -05:00] [INF] [23] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "guy" has been denied (IP: "192.168.68.52").
+[2025-01-09 15:29:49.571 -05:00] [ERR] [23] Jellyfin.Api.Middleware.ExceptionMiddleware: Error processing request: "Invalid username or password entered". URL "POST" "/Users/authenticatebyname".
+[2025-01-09 15:29:53.614 -05:00] [INF] [23] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "guy" has succeeded.
+[2025-01-09 15:29:53.614 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "guy": 0/0
+[2025-01-09 15:29:53.614 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 3cf55e56-2ed3-4e21-8b15-d4f91bc8d81d
+[2025-01-09 15:29:53.658 -05:00] [INF] [14] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" request
+[2025-01-09 15:30:51.698 -05:00] [INF] [40] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" closed
+[2025-01-09 15:38:24.737 -05:00] [INF] [14] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" request
+[2025-01-09 15:38:25.704 -05:00] [INF] [30] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.68.52" closed
